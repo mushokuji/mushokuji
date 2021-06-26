@@ -1,0 +1,58 @@
+{
+  "title": "Joshidaisei Kateikyoushi Hamanaka Ai",
+  "description": "The story revolves around Tomoya Mizuhara, a 13-year-old boy who suddenly gains a big sister when his father remarries. 17-year-old Ichika is a little strange, and her affection for Tomoya is rather overwhelming, if not scary. On top of things, Ichika's friend Ruri is the ultimate sadist. Then there is Ichika's big-breasted quarter-Japanese friend Marina.",
+  "artist": "ANZAI Rikou",
+  "author": "ANZAI Rikou",
+  "cover": "https://i.imgur.com/5JGqiwa.jpg",
+  "chapters": {
+    "05": {
+      "volume": "1",
+      "groups": {
+        "Mushokuji": "/proxy/api/mangadex/chapter/3acd471d-4ab7-472d-9a9a-b3605776538a/"
+      },
+      "last_updated": "1611586515"
+    },
+    "31": {
+      "volume": "2",
+      "groups": {
+        "Mushokuji": "/proxy/api/imgur/chapter/98260c4c-810d-4dc4-b9b7-729e31e0f27f/"
+      },
+      "last_updated": "1611068115"
+    },
+      "32": {
+      "volume": "2",
+      "groups": {
+        "Mushokuji": "/proxy/api/imgur/chapter/d37df1cc-65b8-4dbb-a014-7fc13bd2550e/"
+      },
+      "last_updated": "1611413715"
+    },
+      "33": {
+      "volume": "2",
+      "groups": {
+        "Mushokuji": "/proxy/api/imgur/chapter/8ba8deb8-a47f-49d2-868b-65c57b62e959/"
+      },
+      "last_updated": "1612191315"
+    },
+      "34": {
+      "volume": "2",
+      "groups": {
+        "Mushokuji": "/proxy/api/imgur/chapter/095443b7-eaf6-45a0-8762-711ce15ff627/"
+      },
+      "last_updated": "1612623315"
+    },
+      "35": {
+      "volume": "2",
+      "groups": {
+        "Mushokuji": "/proxy/api/imgur/chapter/cbfb35ea-22ae-49c4-9a55-0c91d9ac5a7f/"
+      },
+      "last_updated": "1613141715"
+    },
+      "36": {
+      "volume": "2",
+      "groups": {
+        "Mushokuji": "/proxy/api/imgur/chapter/4fbae462-86a8-4d48-b934-0fdeab971a41/"
+      },
+      "last_updated": "1615906515"
+    }
+  }
+}
